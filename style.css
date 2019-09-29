@@ -1,0 +1,60 @@
+*, html{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+ 	background-size:cover;
+}
+
+.body{
+	margin-top: 300px;
+	margin-left: 400px;
+
+}
+
+.containerreg{
+	margin-top: 100px;
+	margin-left: 620px;
+
+}
+
+.mainbutton{
+	background-color: #4CAF50;  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  cursor: pointer;
+  margin-left: 165px;
+  margin-top: 30px;
+}
+
+.button1 {
+  background-color: #AEB6BF; 
+  color: black; 
+  border: 2px solid #AEB6BF;
+}
+
+.button1:hover {
+  background-color: white;
+  color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
